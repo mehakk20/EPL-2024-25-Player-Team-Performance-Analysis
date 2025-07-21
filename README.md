@@ -31,7 +31,7 @@ This project uses Python and it's libraries (Pandas, Numpy, Matplotlib, Seaborn)
 - Scatter plot of Expected Goals (xG) vs Actual Goals (GF)
 - Boxplot of Player Goals by Position
 - Bar plot of Average Goals per Match by each Club
-- Bar plot of Top 10 Assists by Players
+- Bar plot of Top 10 Goal Scorers
 - Bar Plot of Distribution of Yellow & Red Cards by Position
 - Pie Chart of Most Players are from which Nations
 - Pie chart of Goals scored with and without Assist
